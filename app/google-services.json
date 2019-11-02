@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "656864547883",
+    "firebase_url": "https://hots-717cf.firebaseio.com",
+    "project_id": "hots-717cf",
+    "storage_bucket": "hots-717cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656864547883:android:3979153c182bd8f58e066e",
+        "android_client_info": {
+          "package_name": "com.example.hafizhonthestreet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656864547883-141o77nic2g5jne99lrakf74sgjo414j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hafizhonthestreet",
+            "certificate_hash": "cd70665d96de877f53cef621dc7b089bfa34d03c"
+          }
+        },
+        {
+          "client_id": "656864547883-fh4lu0mns4af9st009pc8o6banb3cktp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs4eGpigaWIlk7f6kaozaFJnhRDop4ffE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656864547883-fh4lu0mns4af9st009pc8o6banb3cktp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
